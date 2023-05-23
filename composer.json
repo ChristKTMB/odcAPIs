@@ -1,0 +1,19 @@
+{
+    "name": "academy/odcapi",
+    "license": "open",
+    "autoload": {
+        "psr-4": {
+            "Academy\\Odcapi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christ Katumba",
+            "email": "christkatumba02@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "doctrine/dbal": "^3.6"
+    }
+}
